@@ -69,6 +69,30 @@ button {
   text-decoration: none;
 }
 
-.highlighted {
-	background-color: blue;
+.colours {
+	text-align: center;
+}
+
+.pick_colour {
+	margin-left: 5px;
+}
+
+#black {
+	background-color: #111828;
+	border: none;
+}
+
+#blue {
+	background-color: #509ddd;
+	border: none;
+}
+
+#red {
+	background-color: #ff4444;
+	border: none;
+}
+
+#green {
+	background-color: #5ca36a;
+	border: none;
 }
